@@ -3,6 +3,10 @@
 Implementations of Hu's invariants with respect to translation, scale, and rotation using `skimage` and `opencv` APIs.
 
 ### Usage
+```
+git clone https://github.com/SensorAnalyticsAus/hu-invars.git
+cd cd hu-invars/
+```
 
 With `skimage`
 ``` 
