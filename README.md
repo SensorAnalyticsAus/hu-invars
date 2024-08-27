@@ -27,4 +27,5 @@ Output
 
 ### Refs
 * M. K. Hu, "Visual Pattern Recognition by Moment Invariants", IRE Trans. Info. Theory, vol. IT-8, pp.179–187, 1962
-* [Hu Moments' OpenCV method]( http://docs.opencv.org/modules/imgproc/doc/structural_analysis_and_shape_descriptors.html?highlight=cvmatchshapes#humoments) 
+* [scikit-image](https://scikit-image.org/docs/stable/api/skimage.measure.html#skimage.measure.moments)
+* [opencv image moments](https://docs.opencv.org/3.4/d0/d49/tutorial_moments.html) 
