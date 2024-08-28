@@ -9,7 +9,6 @@ if len(sys.argv) !=2:
    print('usage: {image_file}')
    sys.exit(1)
 img = cv2.imread(sys.argv[1],cv2.IMREAD_GRAYSCALE)
-#_,img = imgbw(img)
 moments = cv2.moments(img)
 huM = cv2.HuMoments(moments)
 np.set_printoptions(suppress=True,precision=5)
